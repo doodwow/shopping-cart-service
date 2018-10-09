@@ -1,0 +1,10 @@
+# common properties
+server:
+  servlet:
+    contextPath: /
+  
+info:
+  app:
+    name: shopping-cart-service
+    version: v0.1
+    description: shopping-cart-service
